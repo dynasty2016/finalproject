@@ -1,0 +1,20 @@
+In this exercise, I will be making calls to the Foursquare API to search for a specific type of venue, to explore a particular venue, to explore a Foursquare user, to explore a geographical location, and to get trending venues around a location. I will also use the visualization library, Folium, to visualize the results. The following necessary libraries will also be imported:
+
+Requests - library to handle requests
+Pandas - library for data analysis
+NumPy - library to handle data in a vectorized manner
+Random - library for random number generation
+Nominatim (from the GeoPy library) - module to convert an address into latitude and longitude values
+IPython - libraries for displaying images
+json_normalize - library for transforming a json file into a pandas dataframe
+
+Examples of use of Foursquare location data:
+
+Samsung
+Using Foursquare's database of more than 105 million places, Samsung allows users to geo-tag their photos with detailed info about a destination, while also serving up contextually relevant locations for those who are searching for a place to eat, drink or explore.
+
+Airbnb
+The world's largest community-driven hospitality company relies on the Places API to surface curated photos and other place-related content in users' guidebooks.
+
+Uber
+The global ride-hailing giant enables users to search and find the destinations they want to go using Foursquare's Places Database of 105+ million places around the world.
